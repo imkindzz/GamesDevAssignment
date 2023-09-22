@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -117,7 +117,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Pac-Student_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 132
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912ea629544adef45ad1cbcc594e0191
+      internalID: -240283404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a148eea26fb2855418932f264a7becf3
+      internalID: 1183124981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 132
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e75b9df110de41921f83b7a13ef90
+      internalID: -1144057401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863ff909b257d764faec035435de52d9
+      internalID: -1420150949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53746c04898161142b1b0506c5a0e94b
+      internalID: 1195514535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d501413f4f5024788aec49f4a54103
+      internalID: 785876024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754ae8a0392cd9478b94b1c532073da
+      internalID: 1067244117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf80bb5ba4fe4ca4091cc67d8543ab16
+      internalID: 1211645598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Student_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229f77d09dc81546bf524ec752b3a3d
+      internalID: 2114482119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -128,7 +317,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pac-Student_0: -240283404
+      Pac-Student_1: 1183124981
+      Pac-Student_2: -1144057401
+      Pac-Student_3: -1420150949
+      Pac-Student_4: 1195514535
+      Pac-Student_5: 785876024
+      Pac-Student_6: 1067244117
+      Pac-Student_7: 1211645598
+      Pac-Student_8: 2114482119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
