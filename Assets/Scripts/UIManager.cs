@@ -23,5 +23,11 @@ public class UIManager : MonoBehaviour
         SceneManager.LoadScene("Main");
 
     }
+
+    public void LoadStart()
+    {
+        SceneManager.LoadScene("StartScene");
+
+    }
 }
 
